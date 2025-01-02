@@ -2,7 +2,7 @@
 
 // Servo Variables
 Servo gripperServo;
-const int gripPin = 46;          // Servo signal pin (PWM capable pin on Mega2560)
+const int gripPin = 8;          // Servo signal pin (PWM capable pin on Mega2560) 46 on Mega
 const int gripOpenAngle = 0;    // Open position
 const int gripCloseAngle = 270;  // Close position
 
